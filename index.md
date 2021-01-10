@@ -1,7 +1,11 @@
 
-      Welcome to my blog!<br />
-      Here are my posts, enjoy!<br />
+      Welcome to my blog!
+      Here are my posts, enjoy!
       <ul>
-        <li><a href="posts/how-to-create-apis-using-python.html">How to Create APIs Using Python</a></li>
-      </ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
  
