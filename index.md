@@ -1,15 +1,7 @@
 
-<html>
-  <head>
-    <title>AI, Big Data, Technology and More</title>
-  </head>
-  <body>
-    <div id="main">
       Welcome to my blog!<br />
       Here are my posts, enjoy!<br />
       <ul>
         <li><a href="posts/how-to-create-apis-using-python.html">How to Create APIs Using Python</a></li>
       </ul>
-    </div>
-  </body>
-</html>
+ 
