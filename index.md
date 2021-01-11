@@ -1,4 +1,5 @@
+  
   {% for post in site.posts %}
-    ({{ post.url }})
+    - [{{ post.title }}](https://www.henriquearutin.com.br{{ post.url }})
   {% endfor %}
  
