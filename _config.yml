@@ -1,2 +1,4 @@
-title: Blog Pessoal - IA, Big Data e mais...
-theme: jekyll-theme-cayman
+title: Blog Pessoal
+description: Posts sobre inteligência artificial, Big Data, tecnologia e mais...
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
