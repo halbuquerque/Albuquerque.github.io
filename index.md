@@ -1,5 +1,5 @@
-  
+  <html>
   {% for post in site.posts %}
-    - [{{ post.title }}](https://www.henriquearutin.com.br{{ post.url }})
+  - <a href="https://www.henriquearutin.com.br{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
- 
+ </html>
