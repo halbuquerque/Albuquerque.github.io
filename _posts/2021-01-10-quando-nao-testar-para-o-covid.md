@@ -1,4 +1,4 @@
-Antes de começar meu post, é importante dizer que você deve sempre procurar um(a) médico(a) para que ele(a) lhe diga quais exames fazer referente ao COVID-19. Não tenho formação médica e meu relato abaixo é apenas informacional.
+Antes que você comece a ler meu post, é importante dizer que você deve sempre procurar um(a) médico(a) para que ele(a) lhe diga quais exames fazer referente ao COVID-19. Não tenho formação médica e meu relato abaixo é apenas informacional.
 
 ---
 
