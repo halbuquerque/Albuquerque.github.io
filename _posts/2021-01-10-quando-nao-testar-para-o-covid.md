@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Quando não testar para o COVID
 description: Um breve relato da minha experiência recente 
 tags: COVID especificidade sensitividade 
