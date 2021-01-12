@@ -1,5 +1,4 @@
 ---
-title: Quando não testar para o COVID
 description: Um breve relato da minha experiência recente 
 tags: COVID especificidade sensitividade 
 ---
@@ -7,6 +6,9 @@ tags: COVID especificidade sensitividade
 Antes que você comece a ler meu post, é importante dizer que você deve sempre procurar um(a) médico(a) para que ele(a) lhe diga quais exames fazer referente ao COVID-19. Não tenho formação médica e meu relato abaixo é apenas informacional.
 
 ---
+
+Quando não testar para o COVID
+==============================
 
 Na semana passada, minha esposa fez o teste sorológico (IgM/IgG) para o COVID-19 na empresa dela. Ela não tinha nenhum sintoma, os testes são feitos para todos os funcionários. Ficamos surpresos quando o teste dela deu positivo.
 
