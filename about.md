@@ -14,6 +14,10 @@ Seguem alguns links para eventos e reportagens em que participei:
 
 [Reportagem Evento AI VIEW 2018](https://www.7comm.com.br/blog/2018/04/inteligencia-artificial-real-ainda-nao-e-a-inteligencia-artificial-ideal/)
 
+[Reportagem Confirp - 2018](https://confirp.com.br/inteligencia-artificial-o-futuro-e-hoje/)
+
+[Palestra Inovação Evendo IGEOC - 2018](https://aneps.org.br/leitura/12558/8-forum-de-inovacao-do-igeoc)
+
 [Open Data Science Conference ODSC Brasil - 2019](https://brasil.odsc.com/)
 
 [Reportagem ODSC Brasil - 2019](https://startupi.com.br/2019/10/odsc-traz-para-o-brasil-maior-evento-de-inteligencia-artificial-e-data-science-do-mundo/)
@@ -31,3 +35,7 @@ Seguem alguns links para eventos e reportagens em que participei:
 [Reportagem Consumidor Moderno - 2019](https://digital.consumidormoderno.com.br/vem-ai-a-proxima-era-dos-bots-ed243/)
 
 [Reportagem CIO.com - 2019](https://cio.com.br/tendencias/por-que-a-industria-financeira-esta-revolucionando-o-mercado-com-ai/)
+
+[Reportagem uol.com.br - 2019](https://www.uol.com.br/tilt/noticias/redacao/2019/02/19/inteligencia-artificial-ja-manda-soltar-e-prender-mas-nao-fica-so-nisso.htm)
+
+
