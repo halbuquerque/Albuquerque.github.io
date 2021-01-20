@@ -1,0 +1,1 @@
+Trabalho como gestor de equipes de cientistas de dados e especialistas de inteligência artificial há 5 anos, quando minha aventura na área de Big Data, machine learning e inteligência artificial começou. Sou formado em Informação e Ciência da Computação pela Universidade da Califórnia em Irvine e apaixonado por computação e tecnologia desde sempre.
