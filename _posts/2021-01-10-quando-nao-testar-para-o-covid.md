@@ -2,14 +2,12 @@
 description: Um breve relato da minha experiência recente 
 tags: COVID especificidade sensitividade 
 author: Henrique Arutin Cavalcanti de Albuquerque
+title: Quando Não Testar para o COVID
 ---
 
 Antes que você comece a ler meu post, é importante dizer que você deve sempre procurar um(a) médico(a) para que ele(a) lhe diga quais exames fazer referente ao COVID-19. Não tenho formação médica e meu relato abaixo é apenas informacional.
 
 ---
-
-Quando não testar para o COVID
-==============================
 
 Na semana passada, minha esposa fez o teste sorológico (IgM/IgG) para o COVID-19 na empresa dela. Ela não tinha nenhum sintoma, os testes são feitos para todos os funcionários. Ficamos surpresos quando o teste dela deu positivo.
 
@@ -22,4 +20,4 @@ No site da [Cochrane.org](https://cochrane.org) encontrei um [artigo](https://ww
 Minha conclusão é que não vale a pena fazer o teste sorológico, a não ser que a pessoa apresente algum sintoma de COVID. Os resultados observados pelos autores do artigo gira em torno de 72% de sensitividade, ou seja, 28% de probabilidade de ter um resultado falso positivo. Enquanto a especificidade é bem alta, girando em torno de 98%, ou seja, as pessoas não infectadas são detectadas com muito mais certeza. Isso indica que minha esposa, ao fazer o teste, muito provavelmente caiu no grande grupo das 28% de pessoas diagnosticadas com a doença incorretamente. O outro teste que ela fez, como deu negativo, nos dá 98% de chance dela realmente não ter o COVID. Ou seja, confio muito mais no segundo exame do que o primeito. Portanto, evite cair no grupo dos falso-positivos fazendo o teste sorológico para o COVID sem que um(a) médico(a) tenha solicitado que você faça o exame.
 
 ---
-*Autor: Henrique Arutin Cavalcanti de Albuquerque. Este artigo representa apenas opiniões pessoais do autor.*
+*Este artigo representa apenas opiniões pessoais do autor.*
