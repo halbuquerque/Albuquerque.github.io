@@ -3,11 +3,12 @@
   
   <h2>Sobre mim</h2>
   Se quiser saber mais sobre mim, clique <a href="https://www.henriquearutin.com.br/about">aqui</a>
-  
+  <br />
   <h2>Posts</h2>
   <p>
   {% for post in site.posts %}
   - <a href="https://www.henriquearutin.com.br{{ post.url }}">{{ post.title }}</a><br />
   {% endfor %}
   </p>
+  <br />
 </html>
