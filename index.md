@@ -5,6 +5,10 @@ Se quiser saber mais sobre mim, clique <a href="https://www.henriquearutin.com.b
   
 ## Posts  
 {% for post in site.posts %}
+{% for tg in post.tags %}
+### Ciência de Dados
+{% if tg == "ciência_de_dados" %}
 - <a href="https://www.henriquearutin.com.br{{ post.url }}">{{ post.title }}</a> - tags: {% for tg in post.tags %}{{tg}}&nbsp;{% endfor %}<br />
+{% endif %}
 {% endfor %}
   
