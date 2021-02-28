@@ -5,6 +5,6 @@ Se quiser saber mais sobre mim, clique <a href="https://www.henriquearutin.com.b
   
 ## Posts  
 {% for post in site.posts %}
-- <a href="https://www.henriquearutin.com.br{{ post.url }}">{{ post.title }}</a> - tags: {% for tg in post.tags %}{{tg}}$nbsp;{% endfor %}<br />
+- <a href="https://www.henriquearutin.com.br{{ post.url }}">{{ post.title }}</a> - tags: {% for tg in post.tags %}{{tg}}&nbsp;{% endfor %}<br />
 {% endfor %}
   
