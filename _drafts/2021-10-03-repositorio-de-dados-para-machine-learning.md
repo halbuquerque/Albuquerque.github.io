@@ -10,4 +10,4 @@ Procurando por dados para testar suas habilidades de cientistas de dados, treina
 Acesse este [link](https://archive.ics.uci.edu/ml/index.php)
 
 ### Kaggle
-Acesse este [link](https://www.kaggle.com)
+Acesse este [link](https://www.kaggle.com/datasets)
